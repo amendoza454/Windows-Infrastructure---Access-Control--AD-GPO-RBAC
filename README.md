@@ -42,7 +42,7 @@
 * [Day 5 & Day 6 - Infrastructure and Access Control Evidence](Screenshots)
 
 ## Technical Documentation
-* [Network Configuration](Documentation/Network-Configuration.md)
-* [Group Policy Configuration](Documentation/Group-Policy-Configuration.md)
-* [SMB & NTFS Permissions](Documentation/SMB-NTFS-Permissions.md)
-* [Drive Mapping & Access Testing](Documentation/Drive-Mapping-and-Testing.md)
+* [Network Configuration](Documentation/Network%20Config%20File.md)
+* [Group Policy Configuration](Documentation/Group%20Policy%20Config.md)
+* [SMB & NTFS Permissions](Documentation/SMB%20%26%20NTFS%20Permissions.md)
+* [Drive Mapping & Access Testing](Documentation/Drive%20Mapping%20%26%20Testing.md)
