@@ -39,8 +39,7 @@
 * Successfully tested file creation, modification, and deletion through a mapped network drive
 
 ## Evidence & Screenshots
-* [Day 5 - Domain Integration & Group Policy](Screenshots/Day-5-Domain-and-GPO)
-* [Day 6 - File Sharing & RBAC](Screenshots/Day-6-File-Sharing-and-RBAC)
+* [Day 5 & Day 6 - Infrastructure and Access Control Evidence](Screenshots)
 
 ## Technical Documentation
 * [Network Configuration](Documentation/Network-Configuration.md)
