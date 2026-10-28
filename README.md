@@ -37,3 +37,13 @@
 * Automated 4 departmental network drive mappings using security group targeting
 * Verified authorized access and restricted unauthorized departmental access
 * Successfully tested file creation, modification, and deletion through a mapped network drive
+
+## Evidence & Screenshots
+* [Day 5 - Domain Integration & Group Policy](Screenshots/Day-5-Domain-and-GPO)
+* [Day 6 - File Sharing & RBAC](Screenshots/Day-6-File-Sharing-and-RBAC)
+
+## Technical Documentation
+* [Network Configuration](Documentation/Network-Configuration.md)
+* [Group Policy Configuration](Documentation/Group-Policy-Configuration.md)
+* [SMB & NTFS Permissions](Documentation/SMB-NTFS-Permissions.md)
+* [Drive Mapping & Access Testing](Documentation/Drive-Mapping-and-Testing.md)
